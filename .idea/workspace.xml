@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c4cbd77-d63e-465b-900c-7a8902f6f364" name="更改" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7c4cbd77-d63e-465b-900c-7a8902f6f364" name="更改" comment="修正库">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/atomic/myrtle.atomic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/atomic/myrtle.atomic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/atomic/myrtle.atomic.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/atomic/myrtle.atomic.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/atomic/myrtle.atomic.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/atomic/myrtle.atomic.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/buildSrc/myrtle.buildSrc.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/buildSrc/myrtle.buildSrc.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/buildSrc/myrtle.buildSrc.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/buildSrc/myrtle.buildSrc.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/citrus/myrtle.citrus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/citrus/myrtle.citrus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/citrus/myrtle.citrus.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/citrus/myrtle.citrus.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/citrus/myrtle.citrus.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/citrus/myrtle.citrus.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/orcas/myrtle.orcas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/orcas/myrtle.orcas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/orcas/myrtle.orcas.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/orcas/myrtle.orcas.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/orcas/myrtle.orcas.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/orcas/myrtle.orcas.test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,8 +181,17 @@
       <workItem from="1769693861124" duration="6087000" />
       <workItem from="1769763089205" duration="16185000" />
       <workItem from="1770561156284" duration="6977000" />
-      <workItem from="1770570694502" duration="29000" />
+      <workItem from="1770570694502" duration="134000" />
     </task>
+    <task id="LOCAL-00001" summary="修正库">
+      <option name="closed" value="true" />
+      <created>1770570800450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770570800450</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,5 +207,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修正库" />
+    <option name="LAST_COMMIT_MESSAGE" value="修正库" />
   </component>
 </project>
