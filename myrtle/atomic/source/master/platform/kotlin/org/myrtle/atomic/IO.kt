@@ -149,6 +149,7 @@ object IO {
 	}
 
 	@Suppress("NOTHING_TO_INLINE")
+
 	inline fun toBinary(clazz: Any): ByteArray{
 		ByteArrayOutputStream().use {
 			toBinary(clazz,it)
