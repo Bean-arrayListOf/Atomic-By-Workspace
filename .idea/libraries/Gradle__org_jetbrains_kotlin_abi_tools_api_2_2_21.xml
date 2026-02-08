@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:abi-tools-api:2.2.21" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlin" artifactId="abi-tools-api" version="2.2.21" baseVersion="2.2.21" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/abi-tools-api/2.2.21/ed18ed85fcfa6c8ae4638feb3ebe706c5d3161af/abi-tools-api-2.2.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/abi-tools-api/2.2.21/80d4322e3904a7097a37f7e09978f26556498078/abi-tools-api-2.2.21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

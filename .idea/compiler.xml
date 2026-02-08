@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="myrtle.app" target="17" />
+      <module name="myrtle.app.main" target="17" />
+      <module name="myrtle.app.test" target="17" />
+      <module name="myrtle.atomic" target="17" />
+      <module name="myrtle.atomic.main" target="17" />
+      <module name="myrtle.atomic.test" target="17" />
+      <module name="myrtle.buildSrc" target="17" />
+      <module name="myrtle.buildSrc.main" target="17" />
+      <module name="myrtle.buildSrc.test" target="17" />
+      <module name="myrtle.citrus" target="17" />
+      <module name="myrtle.citrus.main" target="17" />
+      <module name="myrtle.citrus.test" target="17" />
+      <module name="myrtle.orcas" target="17" />
+      <module name="myrtle.orcas.main" target="17" />
+      <module name="myrtle.orcas.test" target="17" />
+      <module name="myrtle.utils" target="17" />
+      <module name="myrtle.utils.main" target="17" />
+      <module name="myrtle.utils.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

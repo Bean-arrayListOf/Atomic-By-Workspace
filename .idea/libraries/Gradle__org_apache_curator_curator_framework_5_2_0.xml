@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.curator:curator-framework:5.2.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.curator" artifactId="curator-framework" version="5.2.0" baseVersion="5.2.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.curator/curator-framework/5.2.0/dffcfb521d99b9b7515f7b6041badac62910075e/curator-framework-5.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.curator/curator-framework/5.2.0/edc8b3e34c9aeb3c2718abccf8bb577a21673baa/curator-framework-5.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

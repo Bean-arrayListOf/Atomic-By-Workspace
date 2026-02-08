@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.electronwill.night-config:yaml:3.8.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.electronwill.night-config" artifactId="yaml" version="3.8.3" baseVersion="3.8.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/yaml/3.8.3/7ca818532f4a60ba18283a91c28e074a5003bd3a/yaml-3.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/yaml/3.8.3/b9af5ed23f64ee75e4215ddf5e9ae4a950fd1b1d/yaml-3.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

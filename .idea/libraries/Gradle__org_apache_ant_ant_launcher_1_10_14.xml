@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.ant:ant-launcher:1.10.14" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.ant" artifactId="ant-launcher" version="1.10.14" baseVersion="1.10.14" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-launcher/1.10.14/8d2268288496b0541a2640f2ee07fe3de1a02301/ant-launcher-1.10.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-launcher/1.10.14/3d457ed77af44326b8c759ee558ea54d93fe06fb/ant-launcher-1.10.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

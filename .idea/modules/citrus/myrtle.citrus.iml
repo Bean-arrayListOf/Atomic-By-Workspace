@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":citrus" external.linked.project.path="$MODULE_DIR$/../../../myrtle/citrus" external.root.project.path="$MODULE_DIR$/../../../myrtle" external.system.id="GRADLE" external.system.module.group="org.myrtle" external.system.module.version="26.01.30.23" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../myrtle/citrus">
+      <excludeFolder url="file://$MODULE_DIR$/../../../myrtle/citrus/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../myrtle/citrus/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="temurin-17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

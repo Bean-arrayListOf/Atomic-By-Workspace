@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-sql:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-sql" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-sql/5.0.0-alpha-9/4d0920af06b94d54b28a689c7fc57b5e967ca671/groovy-sql-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-sql/5.0.0-alpha-9/a29b7c002e86d6f9f2edce4287bf77a5c06d8a3c/groovy-sql-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

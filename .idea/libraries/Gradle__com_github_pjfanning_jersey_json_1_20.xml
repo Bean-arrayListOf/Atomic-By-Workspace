@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.pjfanning:jersey-json:1.20" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.pjfanning" artifactId="jersey-json" version="1.20" baseVersion="1.20" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pjfanning/jersey-json/1.20/3ced16e1d195baf892041e66f9f4e41595b7a3b4/jersey-json-1.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pjfanning/jersey-json/1.20/2a2df154dc57f49c3bc0493669cb94a1bb0820de/jersey-json-1.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

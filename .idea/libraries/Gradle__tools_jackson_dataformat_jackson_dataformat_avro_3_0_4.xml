@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: tools.jackson.dataformat:jackson-dataformat-avro:3.0.4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="tools.jackson.dataformat" artifactId="jackson-dataformat-avro" version="3.0.4" baseVersion="3.0.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.jackson.dataformat/jackson-dataformat-avro/3.0.4/4ddfd79ad33f1d2a8befdcdf002fa9cb061cf80d/jackson-dataformat-avro-3.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.jackson.dataformat/jackson-dataformat-avro/3.0.4/c717727e90d456d07b01825f7a0ce6d78426531e/jackson-dataformat-avro-3.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

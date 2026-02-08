@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.honton.chas.hocon:jackson-dataformat-hocon:1.1.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.honton.chas.hocon" artifactId="jackson-dataformat-hocon" version="1.1.1" baseVersion="1.1.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.honton.chas.hocon/jackson-dataformat-hocon/1.1.1/884cad807c651d741a28980f7900304e72344906/jackson-dataformat-hocon-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.honton.chas.hocon/jackson-dataformat-hocon/1.1.1/105690911a3fe54553fbb3a4dfcb9b1310c045d1/jackson-dataformat-hocon-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

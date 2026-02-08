@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.collections:eclipse-collections-forkjoin:10.4.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.eclipse.collections" artifactId="eclipse-collections-forkjoin" version="10.4.0" baseVersion="10.4.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.collections/eclipse-collections-forkjoin/10.4.0/b7be824c355c5367b12319a551db889e57a6db2c/eclipse-collections-forkjoin-10.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.collections/eclipse-collections-forkjoin/10.4.0/e03c4ce9c812d67cdcfce007c093dc7f8727bb37/eclipse-collections-forkjoin-10.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

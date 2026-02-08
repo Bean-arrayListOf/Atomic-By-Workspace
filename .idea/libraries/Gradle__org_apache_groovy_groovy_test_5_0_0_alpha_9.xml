@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-test:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-test" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-test/5.0.0-alpha-9/e89891c5ed6afd8da8fc6b101d1eca4db528d3f2/groovy-test-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-test/5.0.0-alpha-9/26a999d217aab44e6312bba0f13e3cb3e226bc8/groovy-test-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-console:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-console" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-console/5.0.0-alpha-9/982e8ccf4cd1bf02520ae0d9c15ea93c5ceffd12/groovy-console-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-console/5.0.0-alpha-9/cd5921f48419470c06a10c64c9010c279817ee27/groovy-console-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: me.tongfei:progressbar:0.10.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="me.tongfei" artifactId="progressbar" version="0.10.0" baseVersion="0.10.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.tongfei/progressbar/0.10.0/9dca8647ecb042e3605f66d135ce67578ef5dc67/progressbar-0.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.tongfei/progressbar/0.10.0/f833f514e77693d7d2d34bd3b9a7c2241df869f1/progressbar-0.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

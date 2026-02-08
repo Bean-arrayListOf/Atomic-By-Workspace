@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-groovysh:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-groovysh" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-groovysh/5.0.0-alpha-9/8379ee8b89f8ed897dcaa52df32fb3363fd446e6/groovy-groovysh-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-groovysh/5.0.0-alpha-9/a927595769ae81f0c38bfa23f218616a6f50f92/groovy-groovysh-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

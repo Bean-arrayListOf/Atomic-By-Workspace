@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-swing:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-swing" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-swing/5.0.0-alpha-9/ef46ff10ef5f51d7d89b2fab3c882513f168a8e8/groovy-swing-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-swing/5.0.0-alpha-9/3c0e4a91eee6ca8767fb9efb7243e3ed905643ae/groovy-swing-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

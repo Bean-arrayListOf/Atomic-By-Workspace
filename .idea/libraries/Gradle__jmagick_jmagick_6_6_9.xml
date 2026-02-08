@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: jmagick:jmagick:6.6.9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="jmagick" artifactId="jmagick" version="6.6.9" baseVersion="6.6.9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jmagick/jmagick/6.6.9/2e1e0ef51398de53f2c84e488dacbf3bc4e0ef12/jmagick-6.6.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jmagick/jmagick/6.6.9/3074b5ed8bbb92b7dd2dc8ac9e8464328b3c82db/jmagick-6.6.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

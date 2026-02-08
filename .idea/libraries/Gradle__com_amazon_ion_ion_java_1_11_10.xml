@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazon.ion:ion-java:1.11.10" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.amazon.ion" artifactId="ion-java" version="1.11.10" baseVersion="1.11.10" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazon.ion/ion-java/1.11.10/e70f7a90f38eb4dfed97a6c214c5872e7053dc3f/ion-java-1.11.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazon.ion/ion-java/1.11.10/9ae299a874441ffa3e67a0664d2f6e2d0a4cf56f/ion-java-1.11.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

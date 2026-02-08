@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup:protoparser:4.0.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.squareup" artifactId="protoparser" version="4.0.3" baseVersion="4.0.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/protoparser/4.0.3/e61ee0b108059d97f43143eb2ee7a1be8059a30e/protoparser-4.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/protoparser/4.0.3/1a02ec2735d8373adbbbeffea33e9ea8e59af78b/protoparser-4.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

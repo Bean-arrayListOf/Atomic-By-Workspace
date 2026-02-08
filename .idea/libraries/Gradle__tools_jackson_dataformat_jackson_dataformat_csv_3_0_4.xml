@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: tools.jackson.dataformat:jackson-dataformat-csv:3.0.4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="tools.jackson.dataformat" artifactId="jackson-dataformat-csv" version="3.0.4" baseVersion="3.0.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.jackson.dataformat/jackson-dataformat-csv/3.0.4/558dd00bd5e8ac9d1e161b8c7e4cdab9b6694437/jackson-dataformat-csv-3.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.jackson.dataformat/jackson-dataformat-csv/3.0.4/f812f79e2cf41701d4a05aadbfc9b25a0d7fe66a/jackson-dataformat-csv-3.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

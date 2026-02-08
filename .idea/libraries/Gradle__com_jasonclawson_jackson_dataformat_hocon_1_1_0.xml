@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jasonclawson:jackson-dataformat-hocon:1.1.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.jasonclawson" artifactId="jackson-dataformat-hocon" version="1.1.0" baseVersion="1.1.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jasonclawson/jackson-dataformat-hocon/1.1.0/55f94167bdcc28ac3e6c2bc2a83cd42ad947b5a1/jackson-dataformat-hocon-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jasonclawson/jackson-dataformat-hocon/1.1.0/e7a2900f9870a80d317b4c82be93971a43f14ac5/jackson-dataformat-hocon-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

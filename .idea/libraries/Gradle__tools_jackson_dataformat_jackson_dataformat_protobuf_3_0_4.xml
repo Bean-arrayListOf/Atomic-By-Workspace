@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: tools.jackson.dataformat:jackson-dataformat-protobuf:3.0.4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="tools.jackson.dataformat" artifactId="jackson-dataformat-protobuf" version="3.0.4" baseVersion="3.0.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.jackson.dataformat/jackson-dataformat-protobuf/3.0.4/6b922cb4809621ecd953fbf7eb9f37b3e59c2edb/jackson-dataformat-protobuf-3.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.jackson.dataformat/jackson-dataformat-protobuf/3.0.4/9697b46a2a070e4b9c15c9c8dfcb0f7bd0d5a0e2/jackson-dataformat-protobuf-3.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

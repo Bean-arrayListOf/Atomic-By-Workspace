@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.commons:commons-configuration2:2.13.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.commons" artifactId="commons-configuration2" version="2.13.0" baseVersion="2.13.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-configuration2/2.13.0/dc795ed544554745c52d56e0ab5f42529a7cef4e/commons-configuration2-2.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-configuration2/2.13.0/1085da4cbca807737ef53c51b452abbdef112cf0/commons-configuration2-2.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

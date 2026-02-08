@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-ant:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-ant" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-ant/5.0.0-alpha-9/a96a5e7797b120d7cdb7e586d0adc5f41ef00bef/groovy-ant-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-ant/5.0.0-alpha-9/2c2c068e0a3e1bfec5baf7edf749d9ee0ccf201/groovy-ant-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

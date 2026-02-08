@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-nio:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-nio" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-nio/5.0.0-alpha-9/d570c850404e2a13ed661fcc1d5fe8f79ecc8c5e/groovy-nio-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-nio/5.0.0-alpha-9/d2157b6243d24a716870aec832a1c011e25b6f2/groovy-nio-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

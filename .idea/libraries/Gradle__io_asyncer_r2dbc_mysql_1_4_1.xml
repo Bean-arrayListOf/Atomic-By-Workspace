@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.asyncer:r2dbc-mysql:1.4.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.asyncer" artifactId="r2dbc-mysql" version="1.4.1" baseVersion="1.4.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.asyncer/r2dbc-mysql/1.4.1/a8c4c2c3c742744d8c262228cf7077babded42a0/r2dbc-mysql-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.asyncer/r2dbc-mysql/1.4.1/8804ca618a088d1da911b9a999127d665f36a0e6/r2dbc-mysql-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

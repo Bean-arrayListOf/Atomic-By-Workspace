@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.duckdb:duckdb_jdbc:1.4.3.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.duckdb" artifactId="duckdb_jdbc" version="1.4.3.0" baseVersion="1.4.3.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.duckdb/duckdb_jdbc/1.4.3.0/7ad3063c40b660d1cdf0b7695400ab0ad317cf55/duckdb_jdbc-1.4.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.duckdb/duckdb_jdbc/1.4.3.0/a748adde11298d7d389519e5a02a12147a2c969c/duckdb_jdbc-1.4.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

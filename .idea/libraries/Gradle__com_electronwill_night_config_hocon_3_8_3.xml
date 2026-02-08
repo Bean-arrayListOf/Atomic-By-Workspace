@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.electronwill.night-config:hocon:3.8.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.electronwill.night-config" artifactId="hocon" version="3.8.3" baseVersion="3.8.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/hocon/3.8.3/ecf3e109f2ddbaa81890fe5830c5a476e6b35c38/hocon-3.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/hocon/3.8.3/d660cf56210e3cc283b7fc5f04ab163a029935f2/hocon-3.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

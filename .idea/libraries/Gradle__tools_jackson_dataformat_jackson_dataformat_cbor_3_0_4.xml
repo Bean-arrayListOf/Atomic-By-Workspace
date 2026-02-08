@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: tools.jackson.dataformat:jackson-dataformat-cbor:3.0.4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="tools.jackson.dataformat" artifactId="jackson-dataformat-cbor" version="3.0.4" baseVersion="3.0.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.jackson.dataformat/jackson-dataformat-cbor/3.0.4/e228653a0100844cb66b8aebed1486ad7895f4b6/jackson-dataformat-cbor-3.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.jackson.dataformat/jackson-dataformat-cbor/3.0.4/1247dcfbfc4b0aaf04b97a5ecdb62fc52c536e3b/jackson-dataformat-cbor-3.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

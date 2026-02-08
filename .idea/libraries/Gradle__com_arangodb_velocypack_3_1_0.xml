@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.arangodb:velocypack:3.1.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.arangodb" artifactId="velocypack" version="3.1.0" baseVersion="3.1.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arangodb/velocypack/3.1.0/4bd511f55d42bfdcb1d56778e3fcc94c46e6d3a/velocypack-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arangodb/velocypack/3.1.0/cea830a5495575e3d87a6fa51cee8b848e3447c/velocypack-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

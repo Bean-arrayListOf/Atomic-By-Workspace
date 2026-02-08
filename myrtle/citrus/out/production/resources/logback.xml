@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+	<include resource="config/default-logback.xml"/>
+	<root level="ALL">
+		<appender-ref ref="STDOUT_TRACE"/>
+		<appender-ref ref="STDOUT_INFO"/>
+		<appender-ref ref="STDOUT_DEBUG"/>
+		<appender-ref ref="STDOUT_WARN"/>
+		<appender-ref ref="STDOUT_ERROR"/>
+		<appender-ref ref="ASYNC_DB" />
+	</root>
+
+	<logger name="com.zaxxer" level="OFF"/>
+	<logger name="org.sqlite" level="OFF"/>
+	<logger name="org.apache.commons.beanutils" level="OFF"/>
+</configuration>

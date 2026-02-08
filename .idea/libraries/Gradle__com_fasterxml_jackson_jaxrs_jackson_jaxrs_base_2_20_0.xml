@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.20.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.fasterxml.jackson.jaxrs" artifactId="jackson-jaxrs-base" version="2.20.0" baseVersion="2.20.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.20.0/87397886362a7132a42e8713d273b33dd975ae9f/jackson-jaxrs-base-2.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.20.0/e92bd0240ce1b7e28b42160f76e65f69b05e14cc/jackson-jaxrs-base-2.20.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

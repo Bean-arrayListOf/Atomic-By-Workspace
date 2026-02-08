@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.pf4j:pf4j:3.12.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.pf4j" artifactId="pf4j" version="3.12.0" baseVersion="3.12.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pf4j/pf4j/3.12.0/24eabbe354b906fdd734d584426aa25a5c604dfe/pf4j-3.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pf4j/pf4j/3.12.0/2a8ae69fbadbde8e1a7d2354e5febddc058b76de/pf4j-3.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

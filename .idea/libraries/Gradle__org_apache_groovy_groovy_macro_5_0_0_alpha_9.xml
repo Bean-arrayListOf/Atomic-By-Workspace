@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-macro:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-macro" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-macro/5.0.0-alpha-9/40f0b7934b3000d3d53772f249cc0e0d6b00029d/groovy-macro-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-macro/5.0.0-alpha-9/17e17688831b2ad29ea4dccf674b30b2b3b0fa32/groovy-macro-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

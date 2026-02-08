@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.googlecode.plist:dd-plist:1.24" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.googlecode.plist" artifactId="dd-plist" version="1.24" baseVersion="1.24" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.plist/dd-plist/1.24/3b4a32e0837359c06daf1f188cf849238ae2ed82/dd-plist-1.24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.plist/dd-plist/1.24/aef33e5e331f37b21a86e63dc5254fd4d082fcde/dd-plist-1.24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

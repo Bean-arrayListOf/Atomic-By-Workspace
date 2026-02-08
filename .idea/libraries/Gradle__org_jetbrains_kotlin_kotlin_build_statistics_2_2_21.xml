@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-build-statistics:2.2.21" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlin" artifactId="kotlin-build-statistics" version="2.2.21" baseVersion="2.2.21" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-statistics/2.2.21/ca0b6cd0a27a0b2442b37a6516fb223d50c4bf4a/kotlin-build-statistics-2.2.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-statistics/2.2.21/8e9606d9878245111f660a7f2aba5ebd95272515/kotlin-build-statistics-2.2.21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.hadoop:hadoop-mapreduce-client-core:3.3.6" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.hadoop" artifactId="hadoop-mapreduce-client-core" version="3.3.6" baseVersion="3.3.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-mapreduce-client-core/3.3.6/b75e5e9feb70f599a6f6232e71bd5b0030608179/hadoop-mapreduce-client-core-3.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-mapreduce-client-core/3.3.6/80f5f570f1f530ec24a7c5e40097109e8d3fb328/hadoop-mapreduce-client-core-3.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

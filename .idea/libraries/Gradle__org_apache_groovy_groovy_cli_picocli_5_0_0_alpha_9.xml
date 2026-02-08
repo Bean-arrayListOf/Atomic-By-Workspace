@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-cli-picocli:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-cli-picocli" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-cli-picocli/5.0.0-alpha-9/ba4fb91dbc0ff0e050de1b55e36baacfa917e9d/groovy-cli-picocli-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-cli-picocli/5.0.0-alpha-9/a947edd8085d80625646cf0b085148c4ae281909/groovy-cli-picocli-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

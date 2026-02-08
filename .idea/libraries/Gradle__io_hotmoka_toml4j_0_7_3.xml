@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.hotmoka:toml4j:0.7.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.hotmoka" artifactId="toml4j" version="0.7.3" baseVersion="0.7.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.hotmoka/toml4j/0.7.3/81cf97d724c0741c646ac34a9a85d8050c1ac2ab/toml4j-0.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.hotmoka/toml4j/0.7.3/f0a4e218e9f4675d8858c949264ad1261478b864/toml4j-0.7.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

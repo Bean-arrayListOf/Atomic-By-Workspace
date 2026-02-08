@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: tools.jackson.datatype:jackson-datatype-guava:3.0.4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="tools.jackson.datatype" artifactId="jackson-datatype-guava" version="3.0.4" baseVersion="3.0.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.jackson.datatype/jackson-datatype-guava/3.0.4/cc1c5771a0490a62574b036c8a2e6db1b477c85d/jackson-datatype-guava-3.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.jackson.datatype/jackson-datatype-guava/3.0.4/27b1b2930efee81e7383c3019ff8f6f74a4b5f2a/jackson-datatype-guava-3.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

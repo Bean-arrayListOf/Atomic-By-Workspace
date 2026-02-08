@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twelvemonkeys.imageio:imageio-metadata:3.10.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.twelvemonkeys.imageio" artifactId="imageio-metadata" version="3.10.1" baseVersion="3.10.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-metadata/3.10.1/69148d39e4ab2e76ffd3ad1b2dbe98f3f9bdd065/imageio-metadata-3.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-metadata/3.10.1/1abd93cd29d79f49709a86f5d9324d390686e4a3/imageio-metadata-3.10.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

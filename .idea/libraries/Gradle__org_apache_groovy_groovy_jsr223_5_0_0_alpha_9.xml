@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-jsr223:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-jsr223" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-jsr223/5.0.0-alpha-9/712001ecfdd9503751e23039f75338c8d45a891a/groovy-jsr223-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-jsr223/5.0.0-alpha-9/a259405427171769d7cb2b28316a74223d8930c3/groovy-jsr223-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

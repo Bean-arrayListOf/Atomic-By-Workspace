@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+
+	<appender name="STDOUT_TRACE" class="ch.qos.logback.core.ConsoleAppender">
+		<filter class="ch.qos.logback.classic.filter.LevelFilter">
+			<level>TRACE</level>
+			<onMatch>ACCEPT</onMatch>
+			<onMismatch>DENY</onMismatch>
+		</filter>
+		<encoder charset="UTF-8" class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<!-- 输出日志记录格式 -->
+			<pattern>
+				[%gray(%d{yyyy-MM-dd HH:mm:ss.SSSZ})] [%gray(%-5.5level{5})] [%gray(%-15.15thread{15})] [%gray(%-30.30c{30})] : %gray(%msg%n)
+			</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="STDOUT_DEBUG" class="ch.qos.logback.core.ConsoleAppender">
+		<!-- 级别过滤 -->
+		<filter class="ch.qos.logback.classic.filter.LevelFilter">
+			<level>DEBUG</level>
+			<onMatch>ACCEPT</onMatch>
+			<onMismatch>DENY</onMismatch>
+		</filter>
+		<encoder charset="UTF-8" class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<!-- 输出日志记录格式 -->
+			<pattern>
+				[%green(%d{yyyy-MM-dd HH:mm:ss.SSSZ})] [%highlight(%-5.5level{5})] [%cyan(%-15.15thread{15})] [%boldMagenta(%-30.30c{30})] : %msg%n
+			</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="STDOUT_INFO" class="ch.qos.logback.core.ConsoleAppender">
+		<!-- 级别过滤 -->
+		<filter class="ch.qos.logback.classic.filter.LevelFilter">
+			<level>INFO</level>
+			<onMatch>ACCEPT</onMatch>
+			<onMismatch>DENY</onMismatch>
+		</filter>
+		<encoder charset="UTF-8" class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<!-- 输出日志记录格式 -->
+			<pattern>
+				[%green(%d{yyyy-MM-dd HH:mm:ss.SSSZ})] [%highlight(%-5.5level{5})] [%cyan(%-15.15thread{15})] [%boldMagenta(%-30.30c{30})] : %blue(%msg%n)
+			</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="STDOUT_WARN" class="ch.qos.logback.core.ConsoleAppender">
+		<!-- 级别过滤 -->
+		<filter class="ch.qos.logback.classic.filter.LevelFilter">
+			<level>WARN</level>
+			<onMatch>ACCEPT</onMatch>
+			<onMismatch>DENY</onMismatch>
+		</filter>
+		<encoder charset="UTF-8" class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<!-- 输出日志记录格式 -->
+			<pattern>
+				[%yellow(%d{yyyy-MM-dd HH:mm:ss.SSSZ})] [%yellow(%-5.5level{5})] [%yellow(%-15.15thread{15})] [%yellow(%-30.30c{30})] : %yellow(%msg%n)
+			</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="STDOUT_ERROR" class="ch.qos.logback.core.ConsoleAppender">
+		<!-- 级别过滤 -->
+		<filter class="ch.qos.logback.classic.filter.LevelFilter">
+			<level>ERROR</level>
+			<onMatch>ACCEPT</onMatch>
+			<onMismatch>DENY</onMismatch>
+		</filter>
+		<encoder charset="UTF-8" class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<!-- 输出日志记录格式 -->
+			<pattern>
+				[%red(%d{yyyy-MM-dd HH:mm:ss.SSSZ})] [%red(%-5.5level{5})] [%red(%-15.15thread{15})] [%red(%-30.30c{30})] : %red(%msg%n)
+			</pattern>
+		</encoder>
+	</appender>
+
+</configuration>

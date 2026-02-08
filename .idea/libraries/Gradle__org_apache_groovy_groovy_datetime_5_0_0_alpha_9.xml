@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.groovy:groovy-datetime:5.0.0-alpha-9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.groovy" artifactId="groovy-datetime" version="5.0.0-alpha-9" baseVersion="5.0.0-alpha-9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-datetime/5.0.0-alpha-9/152821b9f19a506e10fd1d5c53de835c06a6342b/groovy-datetime-5.0.0-alpha-9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-datetime/5.0.0-alpha-9/b6ba785225c46970dc6dd8d065d2d0b993e77f73/groovy-datetime-5.0.0-alpha-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

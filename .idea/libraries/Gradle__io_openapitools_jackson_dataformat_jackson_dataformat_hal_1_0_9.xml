@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.openapitools.jackson.dataformat:jackson-dataformat-hal:1.0.9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.openapitools.jackson.dataformat" artifactId="jackson-dataformat-hal" version="1.0.9" baseVersion="1.0.9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.openapitools.jackson.dataformat/jackson-dataformat-hal/1.0.9/64c13529f0b5082600b6ab6dae71a0a3de94620/jackson-dataformat-hal-1.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.openapitools.jackson.dataformat/jackson-dataformat-hal/1.0.9/b8c2c95d31c01e9b3ea1d2c80bb63392d6af1d05/jackson-dataformat-hal-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

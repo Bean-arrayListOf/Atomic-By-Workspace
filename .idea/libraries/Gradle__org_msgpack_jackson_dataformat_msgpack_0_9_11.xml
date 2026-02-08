@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.msgpack:jackson-dataformat-msgpack:0.9.11" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.msgpack" artifactId="jackson-dataformat-msgpack" version="0.9.11" baseVersion="0.9.11" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.msgpack/jackson-dataformat-msgpack/0.9.11/51f8699e62fc834b458025552f6841d9009dfb19/jackson-dataformat-msgpack-0.9.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.msgpack/jackson-dataformat-msgpack/0.9.11/f788b5dd6aa7eeedd3ccbffb9e2e0da0f13b75e3/jackson-dataformat-msgpack-0.9.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
