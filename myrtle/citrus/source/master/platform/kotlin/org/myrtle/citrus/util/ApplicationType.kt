@@ -1,0 +1,45 @@
+package org.myrtle.citrus.util
+
+/**
+ * @author CitrusCat
+ * @since 2024/12/26
+ */
+enum class ApplicationType(details: String) {
+	Application("普通应用程序"),
+	CLIApplication("命令行应用程序"),
+	Service("服务应用程序"),
+	Daemon("守护进程"),
+	Library("库"),
+	Plugin("插件"),
+	Module("模块"),
+	Framework("框架"),
+	FrameworkModule("框架模块"),
+	FrameworkPlugin("框架插件"),
+	FrameworkLibrary("框架库"),
+	FrameworkService("框架服务"),
+	FrameworkDaemon("框架守护进程"),
+	Middleware("中间件"),
+	MiddlewareModule("中间件模块"),
+	MiddlewarePlugin("中间件插件"),
+	MiddlewareLibrary("中间件库"),
+	MiddlewareService("中间件服务"),
+	MiddlewareDaemon("中间件守护进程"),
+	Task("任务"),
+	TaskModule("任务模块"),
+	TaskPlugin("任务插件"),
+	TaskLibrary("任务库"),
+	GUI("图形界面"),
+	TUI("文本界面"),
+	Web("网页"),
+	API("API"),
+	Core("核心"),
+	CoreModule("核心模块"),
+	CorePlugin("核心插件"),
+	CoreLibrary("核心库"),
+	CoreService("核心服务"),
+	CoreDaemon("核心守护进程"),
+	CoreTask("核心任务"),
+	Citrus("Myrtle 核心"),
+	MyrtleDemo("Myrtle 示例"),
+	MyrtleTest("Myrtle 测试"),
+}
