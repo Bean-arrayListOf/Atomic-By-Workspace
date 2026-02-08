@@ -1,9 +1,0 @@
-{
-	"source": "/Users/cat/Pictures/NSFW/twitter_media_harvest",
-	"target": "/Users/cat/Pictures/e",
-	"separator": "[-_]+",
-	"suffix": [
-		"png","apng","jpeg","jpg","avif","heif","heic"
-	],
-	"to": "heif"
-}
