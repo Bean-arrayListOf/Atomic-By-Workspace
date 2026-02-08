@@ -1,0 +1,689 @@
+{
+	"configs": [
+		{
+			"classPathAt": true,
+			"file": "config/.env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/.env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/.env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/.env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/.env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/.env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/.env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/.env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "config/canary.env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": ".env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": true,
+			"file": ".env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": true,
+			"file": ".env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": ".env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": ".env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": ".env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": ".env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": ".env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": true,
+			"file": "env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": true,
+			"file": "env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/.env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/config/.env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/config/env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/.env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/.env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/.env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/.env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/.env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/.env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/.env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/.env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/.env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/.env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/.env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/.env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/.env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/.env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/config/${name}.env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/config/${name}.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${name}.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${name}.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/config/${nameNotSuffix}.env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/config/${nameNotSuffix}.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": true,
+			"file": "${rootDir}/config/${nameNotSuffix}.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.env",
+			"fileType": "ENV"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.env.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.properties",
+			"fileType": "Properties"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.env.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.json",
+			"fileType": "JSON"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.env.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.xml",
+			"fileType": "XML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.env.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.ini",
+			"fileType": "INI"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.env.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.plist",
+			"fileType": "XMLPropertyList"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.env.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.yml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.env.yaml",
+			"fileType": "YAML"
+		},
+		{
+			"classPathAt": false,
+			"file": "${rootDir}/${nameNotSuffix}.yaml",
+			"fileType": "YAML"
+		}
+	]
+}
